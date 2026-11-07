@@ -21,3 +21,28 @@
 let evenNumber =44
 let stringNumber=String(evenNumber)
 console.log(typeof stringNumber)
+   
+//*********************************** Coversion Operation ***************************
+let value =3
+let negativeValue =-value
+// console.log(negativeValue)
+// console.log(2+2)
+// console.log(3-2)
+// console.log(2**3)
+// console.log(2/3)
+// console.log(2%3)
+
+// let str1="hellow"
+// let str2="Musa"
+// let str3= str1+ str2
+// console.log(str3)
+
+// console.log(1 +"2")
+// console.log("2" +1+2)
+// console.log(1+2+"2")
+
+console.log(ture)
+
+
+
+
